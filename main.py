@@ -1,2 +1,2 @@
-a=["Hello nepal"]
+a=["Hello nepal", "tea"]
 print(a)
